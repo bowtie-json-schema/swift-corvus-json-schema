@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/corvus-dotnet/corvus-json-schema-swift",
       "state" : {
-        "revision" : "dcd50a32c4fa6f171f7afc5541c89088c0e8fac6",
-        "version" : "0.1.2"
+        "revision" : "106114999af9eb922792661a2e5541eae931e3aa",
+        "version" : "0.1.3"
       }
     }
   ],
